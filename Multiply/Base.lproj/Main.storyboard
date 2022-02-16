@@ -44,13 +44,28 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Black Yoshi" translatesAutoresizingMaskIntoConstraints="NO" id="2H8-Rm-mMR">
+                                <rect key="frame" x="92" y="416" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Big forehead" translatesAutoresizingMaskIntoConstraints="NO" id="GBL-of-k95">
+                                <rect key="frame" x="92" y="734" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Monkey" translatesAutoresizingMaskIntoConstraints="NO" id="WDl-qR-UoT">
+                                <rect key="frame" x="85" y="598" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
+                        <outlet property="bigForeHead" destination="GBL-of-k95" id="S8a-iZ-AOM"/>
+                        <outlet property="blackYoshi" destination="2H8-Rm-mMR" id="J6N-pT-aJK"/>
                         <outlet property="displayNumber" destination="oI7-rF-Mne" id="Jbg-sc-r8H"/>
                         <outlet property="firstNumber" destination="Eeo-6Z-1b5" id="8BT-Qt-ekL"/>
+                        <outlet property="screamingMonkey" destination="WDl-qR-UoT" id="tSI-ls-zqV"/>
                         <outlet property="secondNumber" destination="kJl-Ci-3Nh" id="pmg-FO-h2G"/>
                     </connections>
                 </viewController>
@@ -60,6 +75,9 @@
         </scene>
     </scenes>
     <resources>
+        <image name="Big forehead" width="1200" height="797"/>
+        <image name="Black Yoshi" width="309" height="238"/>
+        <image name="Monkey" width="182" height="276"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
