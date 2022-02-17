@@ -25,6 +25,8 @@ class ViewController: UIViewController {
     }
     @IBAction func clickableNumber(_ sender: Any)
     {
+        
+
      //The ?? is an optional. It protects our text fields from user error. It puts a default value of what you provide to the right of the ??.
         var numberOne = firstNumber.text ?? ""
         var numberTwo = secondNumber.text ?? ""

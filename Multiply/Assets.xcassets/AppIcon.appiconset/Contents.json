@@ -1,46 +1,55 @@
 {
   "images" : [
     {
+      "filename" : "Battlefield 1 Apocalypse-20@2x.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-20@3x.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-29@2x.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-29@3x.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-40@2x.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "40x40"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-40@3x.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-60@2x.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-60@3x.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-20.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "20x20"
@@ -51,6 +60,7 @@
       "size" : "20x20"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-29.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "29x29"
@@ -61,6 +71,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-40.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "40x40"
@@ -71,21 +82,25 @@
       "size" : "40x40"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-76.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "76x76"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-76@2x.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "76x76"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-83.5@2x.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "83.5x83.5"
     },
     {
+      "filename" : "Battlefield 1 Apocalypse-1024.png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
